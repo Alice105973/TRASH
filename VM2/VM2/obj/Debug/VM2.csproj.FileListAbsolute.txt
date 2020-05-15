@@ -1,0 +1,10 @@
+C:\Users\Acer\source\repos\VM2\VM2\bin\Debug\VM2.exe.config
+C:\Users\Acer\source\repos\VM2\VM2\bin\Debug\VM2.exe
+C:\Users\Acer\source\repos\VM2\VM2\bin\Debug\VM2.pdb
+C:\Users\Acer\source\repos\VM2\VM2\obj\Debug\VM2.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\VM2\VM2\obj\Debug\VM2.Form1.resources
+C:\Users\Acer\source\repos\VM2\VM2\obj\Debug\VM2.Properties.Resources.resources
+C:\Users\Acer\source\repos\VM2\VM2\obj\Debug\VM2.csproj.GenerateResource.cache
+C:\Users\Acer\source\repos\VM2\VM2\obj\Debug\VM2.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\VM2\VM2\obj\Debug\VM2.exe
+C:\Users\Acer\source\repos\VM2\VM2\obj\Debug\VM2.pdb
